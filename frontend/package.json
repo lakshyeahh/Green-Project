@@ -1,5 +1,5 @@
 {
-  "proxy": "http://localhost:4000",
+  "proxy": "https://green-project-ms6yx4v1o-lakshyeahhs-projects.vercel.app",
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
