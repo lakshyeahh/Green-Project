@@ -11,13 +11,7 @@ import cors from 'cors'
 
 
 dotenv.config();
-app.use(cors(
-  {
-      origin: ["https://green-project-haii-ja26inzwk-lakshyeahhs-projects.vercel.app/"],
-      methods: ["POST", "GET", "PUT", "PATCH", 'DELETE'],
-      credentials: true
-  }
-));
+\
 app.use(express.json())
 
 const PORT = process.env.PORT || 4000
