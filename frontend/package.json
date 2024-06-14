@@ -39,6 +39,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "proxy": "https://final-green-api.vercel.app",
   "eslintConfig": {
     "extends": [
       "react-app",
