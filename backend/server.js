@@ -13,7 +13,7 @@ import cors from 'cors'
 dotenv.config();
 app.use(cors(
   {
-      origin: ["https://deploy-mern-frontend.vercel.app"],
+      origin: ["https://green-project-haii-ja26inzwk-lakshyeahhs-projects.vercel.app/"],
       methods: ["POST", "GET", "PUT", "PATCH", 'DELETE'],
       credentials: true
   }
