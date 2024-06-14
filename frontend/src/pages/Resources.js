@@ -157,7 +157,7 @@ Check out the exciting challenges below and start your journey towards personal 
 <div class=" px-5 py-24 mx-auto">
 <div class="flex flex-wrap  gap-6">
 {challenges.map((challenge, index) => (
- <div key={index} class="p-8 md:w-[calc(50%-1.5rem)] flex flex-col items-start bg-gradient-to-br from-green-50 via-green-100 
+ <div key={index} class="p-8 md:w-1/2 flex flex-col items-start bg-gradient-to-br from-green-50 via-green-100 
  to-gray-50 border-2 border-blue-100 rounded-lg shadow-lg ease-in-out duration-300 hover:scale-105">
 
   
